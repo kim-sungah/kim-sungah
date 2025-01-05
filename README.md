@@ -48,6 +48,6 @@ Here are some ideas to get you started:
 
 <img src="http://mazandi.herokuapp.com/api?handle=ksa001&theme=warm"/>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kim-sungah)(https://github.com/kim-sungah/github-readme-stats)]
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kim-sungah)](https://github.com/kim-sungah/github-readme-stats)
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kim-sungah)](https://github.com/kim-sungah/github-readme-stats)
