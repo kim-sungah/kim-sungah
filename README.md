@@ -42,6 +42,7 @@ Here are some ideas to get you started:
 <br>
 
 <h3 align="center"> 📚 Studing 📚</h3>
+
 [![Solved.ac
 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=ksa001)](https://solved.ac/ksa001)
 <img src="http://mazandi.herokuapp.com/api?handle={ksa001}&theme=warm"/>
