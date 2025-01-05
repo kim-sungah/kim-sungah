@@ -1,6 +1,5 @@
-<div align="center">
 ![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=KimSungAh&fontSize=50)
-</div>
+
 
 <div align="center">
 👋 Hi there! I am currently studying to become an autonomous driving developer.
