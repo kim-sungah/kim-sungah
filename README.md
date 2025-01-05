@@ -19,13 +19,14 @@ Here are some ideas to get you started:
 
 ## SNS
 <img src="https://img.shields.io/badge/ksa001@ha.ac.kr-EA4335?style=flat-square&logo=Gmail&logoColor=white"/></a>
-<a href="https://www.instagram.com/"><img src="https://img.shields.io/badge/Instagram-FF0069?style=flat-square&logo=ksa_exhibition&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/ksa_exhibition-FF0069?style=flat-square&logo=Instagram&logoColor=white"/></a>
 
-## Studying
+## Skills
 <img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=C&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/scikit-learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white"/></a>
 
+## Studing
 [![Solved.ac
 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=ksa001)](https://solved.ac/ksa001)
 <img src="http://mazandi.herokuapp.com/api?handle={ksa001}&theme=warm"/>
