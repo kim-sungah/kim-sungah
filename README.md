@@ -44,11 +44,10 @@ Here are some ideas to get you started:
 
 <h3 align="center"> 📚 Studing 📚</h3>
 
+[![Sungah's GitHub stats](https://github-readme-stats.vercel.app/api?username=kim-sungah&show_icons=true&theme=radical)](https://github.com/kim-sungah/github-readme-stats)
 [![Solved.ac
-프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=ksa001)](https://solved.ac/ksa001)
+프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=ksa001)](https://solved.ac/ksa001/)
 
 <img src="http://mazandi.herokuapp.com/api?handle=ksa001&theme=warm"/>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kim-sungah)](https://github.com/kim-sungah/github-readme-stats)
-
-[![Sungah's GitHub stats](https://github-readme-stats.vercel.app/api?username=kim-sungah&show_icons=true&theme=radical)](https://github.com/kim-sungah/github-readme-stats)
