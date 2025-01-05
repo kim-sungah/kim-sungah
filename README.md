@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 -->
 
 ## SNS
-<img src="https://img.shields.io/badge/ksa001@ha.ac.kr-EA4335?style=flat-square&logo=ksa001@hs.ac.kr&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/ksa001@ha.ac.kr-EA4335?style=flat-square&logo=Gmail&logoColor=white"/></a>
 <a href="https://www.instagram.com/"><img src="https://img.shields.io/badge/Instagram-FF0069?style=flat-square&logo=ksa_exhibition&logoColor=white"/></a>
 
 ## Studying
