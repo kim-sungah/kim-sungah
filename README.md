@@ -26,12 +26,17 @@ Here are some ideas to get you started:
 ## Skills
 Languages
 <img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=C&logoColor=white"/></a>
+![Java](https://img.shields.io/badge/Java-007396.svg?&style=for-the-badge&logo=Java&logoColor=white)
 <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/scikit-learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white"/></a>
+IDE
+![Eclipse IDE](https://img.shields.io/badge/Eclipse%20IDE-2C2255.svg?&style=for-the-badge&logo=Eclipse%20IDE&logoColor=white)
+![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-007ACC.svg?&style=for-the-badge&logo=Visual%20Studio%20Code&logoColor=white)
+![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84.svg?&style=for-the-badge&logo=Android%20Studio&logoColor=white)
 
 ## Studing
 [![Solved.ac
-프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=ksa001)](https://solved.ac/ksa001)
+Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=ksa001)](https://solved.ac/ksa001/)
 <img src="http://mazandi.herokuapp.com/api?handle=ksa001&theme=warm"/>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kim-sungah)](https://github.com/kim-sungah/github-readme-stats)
