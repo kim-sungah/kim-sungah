@@ -1,6 +1,8 @@
-## 👋 Hi there! I am currently studying to become an autonomous driving developer.
+![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=100&section=header&text=KimSungAh&fontSize=10)
 
-## I enjoy exercising, running, and exhibitions.
+👋 Hi there! I am currently studying to become an autonomous driving developer.
+
+I enjoy exercising, running, and exhibitions.
 
 <!--
 **kim-sungah/kim-sungah** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -22,6 +24,7 @@ Here are some ideas to get you started:
 <img src="https://img.shields.io/badge/ksa_exhibition-FF0069?style=flat-square&logo=Instagram&logoColor=white"/></a>
 
 ## Skills
+Languages
 <img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=C&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/scikit-learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white"/></a>
