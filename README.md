@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=KimSungAh&fontSize=100)
+![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=KimSungAh&fontSize=50)
 
 👋 Hi there! I am currently studying to become an autonomous driving developer.
 
