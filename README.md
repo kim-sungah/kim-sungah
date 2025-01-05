@@ -23,7 +23,7 @@ Here are some ideas to get you started:
 <div align="center">
 <img src="https://img.shields.io/badge/ksa001@ha.ac.kr-EA4335?style=flat-square&logo=Gmail&logoColor=white"/>
 <img src="https://img.shields.io/badge/ksa_exhibition-FF0069?style=flat-square&logo=Instagram&logoColor=white"/>
-<img src="https://img.shields.io/badge/sunga8062@naver.com-03C75A?style=flat-square&logo=Naver&logoColor=white&link=mailto:sunga8062@naver.com)](mailto:sunga8062@naver.com)"/>
+<img src="https://img.shields.io/badge/sunga8062@naver.com-03C75A?style=flat-square&logo=Naver&logoColor=white"/>
 </div>
 
 <br>
@@ -51,4 +51,4 @@ Here are some ideas to get you started:
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kim-sungah)](https://github.com/kim-sungah/github-readme-stats)
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kim-sungah)](https://github.com/kim-sungah/github-readme-stats)
+[![Sungah's GitHub stats](https://github-readme-stats.vercel.app/api?username=kim-sungah)](https://github.com/kim-sungah/github-readme-stats)
