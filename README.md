@@ -27,7 +27,7 @@ Here are some ideas to get you started:
 
 <br>
 
-<h3 align="center"> Skills(Languages&IDE) </h3>
+<h3 align="center"> 💪 Skills(Languages&IDE) 💪 </h3>
 <div align="center">
 <img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=C&logoColor=white"/>
 <img src="https://img.shields.io/badge/Java-007396.svg?&style=flat-square&logo=Java&logoColor=white"/>
