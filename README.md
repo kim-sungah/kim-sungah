@@ -19,15 +19,16 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<h3 align="center"> SNS </h3>
+<h3 align="center"> 📬 Contacts 📬 </h3>
 <div align="center">
 <img src="https://img.shields.io/badge/ksa001@ha.ac.kr-EA4335?style=flat-square&logo=Gmail&logoColor=white"/>
 <img src="https://img.shields.io/badge/ksa_exhibition-FF0069?style=flat-square&logo=Instagram&logoColor=white"/>
+<img src="https://img.shields.io/badge/sunga8062@naver.com-03C75A?style=flat-square&logo=Naver&logoColor=white&link=mailto:sunga8062@naver.com)](mailto:sunga8062@naver.com)"/>
 </div>
 
 <br>
 
-<h3 align="center"> 💪 Skills(Languages&IDE) 💪 </h3>
+<h3 align="center"> 💪 Skills(Languages&Tools) 💪 </h3>
 <div align="center">
 <img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=C&logoColor=white"/>
 <img src="https://img.shields.io/badge/Java-007396.svg?&style=flat-square&logo=Java&logoColor=white"/>
