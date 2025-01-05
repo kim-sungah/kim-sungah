@@ -1,8 +1,10 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=KimSungAh&fontSize=50)
 
+<div align="center">
 👋 Hi there! I am currently studying to become an autonomous driving developer.
 
 I enjoy exercising, running, and exhibitions.
+</div>
 
 <!--
 **kim-sungah/kim-sungah** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
