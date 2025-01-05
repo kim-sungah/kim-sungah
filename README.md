@@ -51,4 +51,4 @@ Here are some ideas to get you started:
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kim-sungah)](https://github.com/kim-sungah/github-readme-stats)
 
-[![Sungah's GitHub stats](https://github-readme-stats.vercel.app/api?username=kim-sungah)](https://github.com/kim-sungah/github-readme-stats)
+[![Sungah's GitHub stats](https://github-readme-stats.vercel.app/api?username=kim-sungah&show_icons=true&theme=radical)](https://github.com/kim-sungah/github-readme-stats)
