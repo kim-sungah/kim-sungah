@@ -1,6 +1,6 @@
 ## 👋 Hi there! I am currently studying to become an autonomous driving developer.
 ##
-## I love exercising, running, and exhibitions.
+## I enjoy exercising, running, and exhibitions.
 
 <!--
 **kim-sungah/kim-sungah** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
