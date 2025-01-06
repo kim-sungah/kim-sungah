@@ -24,7 +24,7 @@ Here are some ideas to get you started:
 <h3 align="center"> 📬 Contacts 📬 </h3>
 <div align="center">
 <img src="https://img.shields.io/badge/ksa001@ha.ac.kr-EA4335?style=flat-square&logo=Gmail&logoColor=white"/>
-<img src="https://img.shields.io/badge/ksa_exhibition-FF0069?style=flat-square&logo=Instagram&logoColor=white"/>
+<img src="https://img.shields.io/badge/k_sung.ah-FF0069?style=flat-square&logo=Instagram&logoColor=white"/>
 <img src="https://img.shields.io/badge/sunga8062@naver.com-03C75A?style=flat-square&logo=Naver&logoColor=white"/>
 </div>
 
